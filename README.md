@@ -45,7 +45,7 @@ Ab Version 0.1.2 steht unten links im Programm **„Updates suchen“**. Ein Kli
 Version gibt, und installiert sie auf Wunsch. Das Programm schließt sich dabei kurz und startet von selbst
 neu, alle Änderungen bleiben erhalten. Wird gerade keine neue Version angeboten, meldet das Programm das.
 
-Wer noch Version 0.1.0 oder 0.1.1 hat, installiert 0.1.2 einmal von Hand (wie oben beschrieben, die alte
+Wer noch Version 0.1.0 oder 0.1.1 hat, installiert die neueste Version einmal von Hand (wie oben beschrieben, die alte
 Version wird dabei ersetzt). Danach geht es über den Knopf.
 
 ## Website im aktuellen Stand ansehen (optional)
