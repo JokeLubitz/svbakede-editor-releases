@@ -39,6 +39,15 @@ Benötigt wird Windows 10 oder 11. Weitere Programme muss man nicht installieren
 „Veröffentlichen“ öffnet nur die Seite „Server-Zugang“. Die kann man in der Testversion einfach
 überspringen und links eine andere Seite wählen.
 
+## Neue Versionen
+
+Ab Version 0.1.2 steht unten links im Programm **„Updates suchen“**. Ein Klick prüft, ob es eine neue
+Version gibt, und installiert sie auf Wunsch. Das Programm schließt sich dabei kurz und startet von selbst
+neu, alle Änderungen bleiben erhalten. Wird gerade keine neue Version angeboten, meldet das Programm das.
+
+Wer noch Version 0.1.0 oder 0.1.1 hat, installiert 0.1.2 einmal von Hand (wie oben beschrieben, die alte
+Version wird dabei ersetzt). Danach geht es über den Knopf.
+
 ## Website im aktuellen Stand ansehen (optional)
 
 Die ZIP-Datei entpacken (Rechtsklick → „Alle extrahieren“) und im Ordner `index.html` doppelklicken.

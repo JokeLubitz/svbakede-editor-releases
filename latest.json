@@ -1,0 +1,11 @@
+{
+  "version": "0.1.2",
+  "notes": "Neu: „Updates suchen“ unten links. Künftige Versionen lassen sich damit direkt im Programm installieren.",
+  "pub_date": "2026-11-13T22:51:22Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZGZXWjA4ejlBVlRVM3RMalhOMVY0TlZhdWVWVUlFa3Q2V2EyTWl2cDl1SzlJbWtoemxzei80QUV5cEU1SkVDd2d4TlkxSGxmOXpMWndRYmFVbGtVOEgrVGQ2bGNVK2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjEwMjgyCWZpbGU6U1YgQmFrZWRlIFdlYnNpdGVfMC4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yClVadXo0VnAzcThyUEd5bXRlN0Y1RG1lZTVPTDRFdjhmNXFxQWNnblJlUlNpaFdrUTVKSFZhYndhdmlRdE44YWZMRndqeE5FeUN0dndtR0RmbDJ3ZUJRPT0K",
+      "url": "https://github.com/JokeLubitz/svbakede-editor-releases/releases/download/v0.1.2/SV-Bakede-Website-Editor_0.1.2_Setup.exe"
+    }
+  }
+}
