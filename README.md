@@ -9,7 +9,7 @@ dabei nichts.
 
 ## Herunterladen
 
-Unter **[Releases](../../releases/latest)** die neueste Version öffnen und dort herunterladen:
+Unter **[Releases](../../releases)** die oberste (neueste) Version öffnen und dort herunterladen:
 
 | Datei | Wofür |
 |---|---|
