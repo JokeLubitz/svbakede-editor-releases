@@ -9,12 +9,8 @@ dabei nichts.
 
 ## Herunterladen
 
-Unter **[Releases](../../releases)** die oberste (neueste) Version öffnen und dort herunterladen:
-
-| Datei | Wofür |
-|---|---|
-| `SV-Bakede-Website-Editor_…_Setup.exe` | Das Programm (Installation, ca. 2 MB) |
-| `SV-Bakede-Website-aktueller-Stand.zip` | Die Website im aktuellen Stand zum Anschauen im Browser (optional) |
+Unter **[Releases](../../releases)** die oberste (neueste) Version öffnen und dort unter „Assets“
+`SV-Bakede-Website-Editor_…_Setup.exe` herunterladen (das Programm, ca. 2 MB).
 
 ## Installieren
 
@@ -47,12 +43,6 @@ neu, alle Änderungen bleiben erhalten. Wird gerade keine neue Version angeboten
 
 Wer noch Version 0.1.0 oder 0.1.1 hat, installiert die neueste Version einmal von Hand (wie oben beschrieben, die alte
 Version wird dabei ersetzt). Danach geht es über den Knopf.
-
-## Website im aktuellen Stand ansehen (optional)
-
-Die ZIP-Datei entpacken (Rechtsklick → „Alle extrahieren“) und im Ordner `index.html` doppelklicken.
-So sieht man die Website ohne Änderungen und kann sie mit der Vorschau im Programm vergleichen.
-Fotos und Schrift kommen aus dem Internet.
 
 ## Entfernen
 
