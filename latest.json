@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Neu: Foto auf der Startseite statt Zielscheibe (selbst austauschbar), neues Vereinswappen, Termine auf dem Handy besser lesbar.",
-  "pub_date": "2026-11-17T17:31:26Z",
+  "version": "0.1.5",
+  "notes": "Neu: Auf der Startseite lassen sich jetzt Abschnitte und Bausteine hinzufügen und umstellen.",
+  "pub_date": "2026-11-19T20:23:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZGZXWjA4ejlBVlJrcmxKMG5zcHVKZkdQejQvN0FTRExBeFdoUzZHU2VIZG14RThaTU9LRzBuUnhycGJ4TzZHUEFXajVEdmFKdnR6emU3dDZaUGR1SDFoWThhdDB4eXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTM2Njg2CWZpbGU6U1YgQmFrZWRlIFdlYnNpdGVfMC4xLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS40CmZHTDVaSUIwY3A0NWtwNmxtVXA1ckpJa0tJQURIRXIvR2I5NlNrQURqbXg2M2ZONC9vaXdyL1ZMblpsSWJsZ1ZLT3ZMNE1qV1NYNVlrWlQwV0J6VkR3PT0K",
-      "url": "https://github.com/JokeLubitz/svbakede-editor-releases/releases/download/v0.1.4/SV-Bakede-Website-Editor_0.1.4_Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZGZXWjA4ejlBVmVTeTY0OXJqOTZwc0ROQXRmNjBEWEY0VDlMbjg2d0VvQTJjSFF5cytvbCs0c1pPNW15TWlUckJ0eEUyR0RQTzlqVjgzc0E3L1duNGlDVDYzWEtNUlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTE5ODAwCWZpbGU6U1YgQmFrZWRlIFdlYnNpdGVfMC4xLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS41ClM5VjYwQWppZlZZZkJOZ3ZVajhueGp4Nm1idDl2ODJTR3FEcmFHdGV0UWl0dCt2aXFtQVhPNUdYTVRpMlNtMEoyT2d2MFptUldjUFMrT0ExNGJUcURnPT0K",
+      "url": "https://github.com/JokeLubitz/svbakede-editor-releases/releases/download/v0.1.5/SV-Bakede-Website-Editor_0.1.5_Setup.exe"
     }
   }
 }
